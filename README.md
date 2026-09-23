@@ -1,8 +1,14 @@
-                             # 🚀 Dagoberto Altamar Pacheco
+<h1 align="center">
+  🚀 Dagoberto Altamar Pacheco
+</h1>
 
-### 🧠 Desarrollador Backend | Especialista en Odoo | APIs e Integraciones
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Desarrollador+Backend;Especialista+en+Odoo;Desarrollo+de+APIs+e+Integraciones;Python+%7C+Odoo+%7C+Node.js+%7C+TypeScript"
+    alt="Animación de texto"
+  />
+</p>
 
----
 
 ## 👨‍💻 Sobre mí
 
