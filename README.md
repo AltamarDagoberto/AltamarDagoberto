@@ -61,7 +61,7 @@ personales utilizando Node.js, TypeScript, React y .NET.
 
 ## 🏢 Odoo Technical Lead / Senior Developer — VG Medical
 
-📅 **Febrero 2026 – Actualidad**
+📅 **Febrero 2026 – Julio 2026**
 
 - Análisis de requerimientos de negocio.
 - Diseño de soluciones escalables dentro de Odoo.
